@@ -1,5 +1,5 @@
-# CIKM-24 3SLP
-This repository houses the source code of 3SLP for CIKM24.
+# WSDM25 3SLP
+This repository houses the source code of 3SLP for WSDM25.
 
 
 ## Table of Contents
