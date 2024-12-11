@@ -1,5 +1,5 @@
-# WSDM25 3SLP
-This repository houses the source code of 3SLP for WSDM25.
+# 3SLP
+This repository houses the source code of 3SLP.
 
 
 ## Table of Contents
